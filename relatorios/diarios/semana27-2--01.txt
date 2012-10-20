@@ -1,0 +1,19 @@
+
+Relatorio semanal
+
+27/12 5h30m
+28/12 8h40
+29/12 5h30m
+30/12 8h15m
+31/12 nao houve atividade
+1/01 nao houve atividade
+02/01 nao houve atividade
+
+
+Total 27h55m
+
+A semana se iniciou com a edicao de um relatorio da semana anterior, no mesmo dia foi observado que com a necessidade de cor a 
+forma de armazenarr o arquivo svg pelo potrace e pelo inkscape poderia ser diferente, foi feito a colorização de alguns modelos, 
+estudado como era estruturado o arquivo svg, criou apartir de entao uma funcao de transformação de um SVGDom que contemplasse ao
+ mesmo tempo operações de dois tipos e que pudesse ser proporcional opcionalmente. Foi feita a colorização dos modelos atraves do programa inkscape
+porem o material final sobre os modelos ainda nao pode ser concluido visto que Ana deve passar as especificações para dar me a certeza de que e como fazer.

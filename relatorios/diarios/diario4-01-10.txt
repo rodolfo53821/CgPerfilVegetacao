@@ -1,0 +1,10 @@
+Iniciar a criação do projeto
+
+
+
+Inicio 9:25 Termino 17:15 Pausa 12:40 a 13:30
+
+Criou tres pacotes
+Telas pacote que contem as telas ate o momento temos duas telas: uma principal e a outra que é utilizada para visualizar os arquivos svg
+Vegetação contem uma classe que armazena os modelos e contem funcoes para manipula-los(tais funcoes ja tinham sido criadas anteriormente)
+Testes - contem classes para testar as outras classes.

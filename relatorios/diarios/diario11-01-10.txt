@@ -1,0 +1,15 @@
+Colocar um filtro no programa para poder salvar apenas arquivos com extensoes svg,pdf,png,jpeg
+Verificar pequeno erro  na nomeação automatica
+Tentar manipular em RasterSVG o salvamento para svg
+Criar uma classe de erro para dar suporte a excessoes ao programa
+
+Inicio 9:30 	Termino 18:30   Pausa 13:00 a 16:00
+
+
+
+
+Criado com sucesso o filtro para os arquivos desejados..Alguns testes foram realizados sobre a nomeação de arquivos e 
+parece estar de acordo com o desejado, salvar em svg criado, pequenos testes foram desenvolvidos porem a confiança de que esta
+aceitava ainda nao se tem devido a poucos testes executados
+Foi criado uma classe erro que da suporte a erros ocorridos durante o programa, a ideia é que exista um arquivo que ira conter
+todos os erros ocorridos no programa

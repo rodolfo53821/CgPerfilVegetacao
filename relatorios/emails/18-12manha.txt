@@ -1,0 +1,21 @@
+Ola Ana, como foi de carnaval?
+
+
+Ana eu precisava de definir um tamanho padrao para cada celula dai eu escolhi 200 x 300 pixels.
+Preciso saber qual o tamanho de cada arvore em 200 x 300 pixel, entao eu pensei :
+Para nao precisar colocar todos os modelos na figura modeloTamanho que tem 200 x 300 px, eu coloquei so uma. E como eu ja tinha a figura com todos os modelos
+(todosOsModelos ) apenas acrescentei uma metrica nesta figura.
+Dai se voce me disser o tamanho da arvore na figura modeloTamanho e me falar a proporcao de cada modelo em TodosOsModelos eu conseguirei
+saber o tamanho de cada modelo em 200 x 300 ou em modeloTamanho
+
+Como dica voce pode primeiro me falar o tamanho de cada arvore na figura todosOsModelos e so depois me falar o tamanho do modelo na figura modeloTamanho
+
+
+Voce nao precisa colocar no photoshop ou outro programa de edicao de imagens.....
+
+Ex de resposta, pf1 5 x 15 (larg x alt) em todosOsModelos.... os valores sao em relacao a metrica do desenho.
+
+Agora se mesmo assim vc nao entendeu eu ponho todos os modelos na figura 200  x 300 px, so nao fiz antes pois como ja tinha todosOsModelos e este ser uma imagem grande facilita.
+
+
+Uma abraçao

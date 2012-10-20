@@ -1,0 +1,5 @@
+Criação da função para escala de SVGDOM com troca de valores e com percentual de valor  ok
+Inicio 9:10      Termino 10:05
+
+
+ManipulateSVGGraphics   foi feito duas funcoes de escala, em uma se passa o novo valor da escala em outra se passa o percentual de aumento

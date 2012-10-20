@@ -1,0 +1,19 @@
+Ola Ana..
+Recomecei as atividades hj..
+Nesse dia eu me concentrei em criar um leitor do arquivo de entrada..
+
+Tenho duas observações importantes
+
+1@ Os valores devem estar com virgula e nao com ponto, mas se for o caso eu faco um programa pra modificar de ponto pra virgula
+automaticamente
+
+2@ Definirei um tamanho padrao para o quadrado da celula, necessito desse valor antemao pra quando criar o modelo
+saber qual o tamanho da tela que este sera inserido
+
+
+
+Ja fiz o leitor, agora no periodo da tarde vou começar a criar um svg com as celulas
+Qualquer recomendação eu entrarei na net novamente hj a noite(como a net aqui é discada eu nao posso entrar toda hora)
+
+
+Abração

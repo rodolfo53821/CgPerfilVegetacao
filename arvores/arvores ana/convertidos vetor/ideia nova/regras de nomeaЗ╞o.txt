@@ -1,0 +1,12 @@
+Os arquivos serao nomeados perante a seguinte regra
+
+
+tipoNumTipo"pag"NumPag"-"prog onde
+
+
+tipo = descrição ou nome da arvore
+Numtipo = podendo ter mais de uma arvore com o mesmo nome ou descrição usa-se um inteiro para diferenciar
+"pag" "-" Todo arquivo tem em seu as essas string como parte 
+prog = sigla pra programa utilizado
+
+po = potrace  

@@ -1,0 +1,5 @@
+Colorização das imagens e reedição das funções de transformação
+Inicio 9:30 	Termino 18:30   Pausa 12:40 13:10
+
+Uma funcao de transformação uniforme foi desenvolvida mas nao foi testada pra transformações que ela propoe
+

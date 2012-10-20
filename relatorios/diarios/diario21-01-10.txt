@@ -1,0 +1,9 @@
+Reuniao com o marquinhos
+
+
+Inicio 15:00 Termino 16:40
+
+
+Na reuniao foi descutido o desenvolvimento do projeto, em especifico a manipulacao de um svg. Houve a participacao 
+do professor Vladimir colaborando com ideias. Foi determinado que de alguma maneira manipulacao o svg atraves de 
+SvgGraphics criando um pra cada arvore e assim adicionando em um outro svg

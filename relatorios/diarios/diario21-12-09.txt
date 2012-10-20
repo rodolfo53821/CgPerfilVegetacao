@@ -1,0 +1,13 @@
+Instalando e Configurando plugin BATIK no eclipse com primeiros passo no manipulamento de svg -----SUcesso
+Inicio 8:00    	Termino   15:50 Pausa de 12:00 ate 14:30
+
+
+Problemas ao identificar plugin
+Solução Basta adicionar os .jar encontrados na pasta do batik no build path
+
+testes de manipulação de svg
+TestSVGGEN exemplo imprimindo um svg 
+ViewGeneratedSVGDemo programa com vizualizador interno de svg
+TesteExternalSVG programa com visualizador interno de svg externo....
+Estudo de DOM API  file:///D:/Documents/rodolfo/faculdade/Bolsa2/plugin/batik-1.7/docs/using/dom-api.html
+SVGAplication aplicação qu carrega um svg do disco

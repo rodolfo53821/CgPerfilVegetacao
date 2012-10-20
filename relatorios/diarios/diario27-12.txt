@@ -1,0 +1,8 @@
+Desenvolvimento do relatorio semanal e inserção de varios svg numa mesma tela e utilização de cor nos modelos
+
+
+
+Inicio 16:00 Termino 21:30 Pausa 12:30 a 14:00
+
+Conseguido a inserção de varias svg em uma mesma tela e uso de cores nos modelos atraves do InkScape
+Porem tal metodo deve ser observado visto que agora os modelos gerados pelo inkScape podem ter estrutura um pouco diferente dos modelos gerados pelo potrace

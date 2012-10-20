@@ -1,0 +1,14 @@
+Como ira funcionar o dbh
+
+
+o fu dara a proporcao da celula a ser ocupada, logo esta sendo considerado que o espaco vazio
+e sempre o final da celula
+
+
+O posicionamento dos modelos é sequencial ate atingir o limite da celula, logo apos e randomico em qualquer local 
+da celula
+A escolha de qual arvore posicionar eh randomico, com isto podemos considerar que o posicionamento 
+de cada modelo é randomico.
+
+
+O pf 9 é um arbusto?

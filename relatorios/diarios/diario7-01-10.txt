@@ -1,0 +1,6 @@
+Estudo da extensao svg
+Aprimorar a inserção de mais de um svg na tela
+Inicio 10:30	Termino 15:30	Pausa 12:40 a 13:00
+
+
+Estudando o svg foi visto que é melhor criar um svg que ja contenha os modelos, dai neste basta apenas manipula-los da maneira desejada

@@ -1,0 +1,6 @@
+Verificar erros do dia anterior dando continuidade ao processo ok
+Inicio	8:25	Termino 16:30  Pausa 9:30 a 14:45
+
+
+ManipulateSVGGraphics foi feita a transalação e escala de uma imagen svg
+Criado uma funçao que faz o translate do svg atraves do DOM

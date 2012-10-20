@@ -1,0 +1,28 @@
+Ola Ana!!
+Como vai?
+
+Estou precisando de 3 coisas:
+
+1- Eu nao trouxe o relacao dos nomes de cada modelo, pois quando sai de viçosa foi muita correria...Voce poderia 
+identificalas no desenho em anexo(todosOSModelos)
+
+2- Preciso saber a proporcao de cada arvore, dai no anexo todosOsModelos tem um desenho dos modelos com uma metrica
+Voce poderia utilizar pra poder me falar a altura e largura de cada arvore proporcionalmente
+
+3- No anexo modeloTamanho tem o pinheirinho(pf4) e uma metrica... adotei como padrao o tamanho de 300x200 pixel (largura x altura) para cada celula
+Eu preciso saber qual a proporçao padrao do modelo na celula, dai eu posso aplicar aos outros tb
+
+
+O progresso do programa esta:
+O programa ja cria a quantidade de celulas que queira, consegue colocar modelos na celula que queira..
+Estou trabalhando agora numa forma de aumentar separadamente o tronco e a copa...Ja vejo que nos modelos pf3 e pf6
+os parecidos com araucaria terei problemas mas estou pensando numa melhor maneira
+Observe se o ultimo modelo no anexo todosOsModelos tem um tronco de acordo...como combinado era criar um tronco pra esse!!!
+
+Nota importante a metrica varia de 0 a 20 na vertical notando que o tracinho do vinte nao aparece na tela o ultimo tracinho
+que aparece é o 19
+
+
+
+
+Qualquer problema estou por aqui

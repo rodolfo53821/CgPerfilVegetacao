@@ -1,0 +1,48 @@
+Ola ana....
+
+
+Ainda tenho duvidas e meio que respondendo e questionando seus emails respostas
+
+-----------------------Quanto ao tamanho
+O tamanho que voce me mandou é em relação a qual desenho?
+Pensei em facilitar, faazendo da maneira que fiz porem nao foi entao 
+Redimensionei a figura todos os modelo e
+Estou lhe mandando um desenho de tamanho 210 x 300 alt x larg com todos os modelos dai é so voce imprimir e
+me falar as proporções 
+
+Obs importantissimo a metrica tem 200 x 300 px que é o que queremos 
+a metrica horizontal tem proporcao diferente da horizontal note isto... 
+
+Agora sim acho que facilita... nao se esqueca de mandar a proporcao tb dos modelos que sao similares
+por exemplo
+
+pfY = pfX com (a x b) ---alt x larg---
+
+
+
+Ana dai voce me confirmo qual o pft da arvore de pezinho novo...eu nao to lembrado qual era ela mas acho que o pft4 nao era...
+
+
+
+
+----------------------------------------Quanto a entrada de dados
+O professor tinha falado em padronizar a quantidade de cada modelo a ser plotado.... 2 ou 3 .
+O que é melhor?
+Talvez eu possa extrair essa info da entrada mas dai eu preciso estar totalmente familiarizado
+
+
+Quanto o biomass
+Seria bom voce me enviar as anotações que fez na reuniao....
+Como eu nao tinha visto a fundo a formula  do dbh no momento eu lembro que eu nao questionei como sera aplicada o valor ao modelo
+Minha duvida é se por exemplo tenho o valor de dbh 3 o que faço?
+Nao pode ser que nem no LAI que nem eu falei pq a formula nao e totalmente decrescente entao pra dois valores distintos de aglb poderiamos ter um mesmo dbh... tipo assim 
+
+Para aglb de 0.08 temos dbh de 1.730383007
+Para aglb de 7.5 temos dbh de  1.740332035
+
+A formula decresce e quando estamos em 7.5 ela ja esta crescendo
+
+Essa duvida acho bom questionar com oprofessor marcos!!!
+
+
+Abração

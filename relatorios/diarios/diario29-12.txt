@@ -1,0 +1,12 @@
+Criar um documento que explique sucintamente a função transform, testa-la e amplia-la para a possibilidade
+de usar com alteração de valores proporcionalmente(nao somente substitui-los), criar uma função que insira novos nos graficos ao documento
+Inicio 10:15   Termino 17:15    Pausa 12:30 a 14:00
+
+
+
+documento criado contendo caracteristica da funcao e os testes executados
+funcao contem uma variavel que define se os valores passados sao proporcional
+testes sobre essa função executados, falta apenas testes onde explora as excessoes
+
+Foi criado uma função que inseri mais de um svg na mesma tela porem vale ressaltar que  a forma de inserção
+nao foi a melhor visto que num mesmo documento tem informações duplicadas tipo o tamanha da janela

@@ -1,0 +1,10 @@
+Manipular svg de modo a apresentar mais de um svg numa mesma tela podendo escala-la. Em aberto, escal conseguida no dia 24
+Inicio 	9:15		Termino 17:15  Pausa 12:45 ate 15:30
+
+
+Testes de manipulação de svg
+ViewExternalSVG modificado tentanto adicionar duas figuras na mesma janela de disposição
+Duas formas de adicionar duas figuras: usando mais de um DOm deixando pra visualização a responsabilidade de impressao
+ou criando um Dom que tenha a informação das svg
+Atraves do Jpanel foi possivel inserir duas svg na mesma tela porem em panels diferentes
+Em ViewGeneratedDemo utilizando o mesmo DOm e SVGgraphics distintos foi possivel criar uma unica figura composta por diversas figuras

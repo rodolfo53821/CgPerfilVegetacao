@@ -1,0 +1,21 @@
+Relatorio semanal referente a semana
+3-01- 10 a 10-01-10
+
+
+3/01 Elaboração do relatorio da semana anterior
+4/01 7h0min
+5/01 7h0min
+6/01 4h30min
+7/01 5h20min
+8/01 Nao houve atividades
+9/01 Nao houve atividades
+10/01 Nao houe atividades
+
+Total de horas   21h50min
+
+
+A atividades da semana foi iniciada como o inicio do programa, criando tres pacotes que inicialmente davam suporte a
+continuidade do desenvolvimento do mesmo, no decorrer da semana e com a tentativa de manipular varios arquivos svg,
+dificuldades foram encontradas entao um estudo da forma de armazenamento da extensao foi feito e foi observado que 
+seria melhor os modelos ja estarem em um mesmo arquivo previamente editado.Nao foi inserido todos os modelos num mesmo
+arquivo ainda visto que a Ana ainda falta me passar a forma como tais podem ser manipulados.

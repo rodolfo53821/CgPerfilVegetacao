@@ -1,0 +1,24 @@
+Ola Ana estive pensando aqui sobre a formula e com as informacoes que voce me passou cheguei a seguinte estrategia
+
+
+
+Primeiramente devo saber qual a quantidade de arvores vamos ter de cada modelo
+Dai tendo o valor de lai posso repartir entre os modelos e alterar a altura da copa de cada modelo
+Posteriormente vou aplicar a biomass que seria o tamanho do troco(gostaria de saber se a biomass altera largura do tronco tambem?) em cada modelo. 
+Posteriormente vou posicionar as arvores de modo que no fim tenhamos o valor de fu referente..
+
+
+
+Com isto prevejo que as arvores do mesmo modelo terao a mesma altura e copa, se for o caso o valor de lai pode ser 
+distribuido com valor aleatorio pra nao ficar as arvores sempre iguais(So que nesse caso se o lai for pequeno a diferenca pode nao ser perceptivel) 
+
+
+A minha grande duvida ainda é o biomass, quando tiver certeza de como agir com este valor em um dia eu implemento 
+os valores e ja consigo mostrar algum resultado....
+Ao ver tudo que me passou vi que o lai é o valor para qtde de folhas da arvore(por isso o professor havia falado em ter modelos desfolhados), entao aumentar a altura da copa apenas satisfaz para o projeto?
+
+
+Ana me desculpa se eu estou lhe enviando muitos emails , mas eu to por aqui por conta mesmo e queria adiantar o maximo que pudesse pois minha vida em viçosa nesse periodo sera um pouco dificil...ahm e vejo que se eu tivesse as informações poderia estar mais adiantado..
+
+
+Abração

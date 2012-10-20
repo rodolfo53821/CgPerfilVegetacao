@@ -1,0 +1,8 @@
+Relatos de uso do programa
+
+
+
+Deve-se botar o nome da saida seguido da extensao
+Exemplo figura.svg
+
+Contendo uma unica celula a metrica tem apenas o limite esquerdo

@@ -1,0 +1,19 @@
+Link acessados pela busca svg
+
+No google
+http://pt.wikipedia.org/wiki/SVG
+http://www.w3.org/Graphics/SVG/
+
+Tutorial
+http://www.academictutorials.com/Pt/svg/svg-introduction.asp
+
+
+No bing
+
+
+
+
+outros
+
+http://www.cin.ufpe.br/~cinlug/wiki/index.php/Transformando_Pixels_em_Vetores_com_o_Potrace
+http://potrace.sourceforge.net/

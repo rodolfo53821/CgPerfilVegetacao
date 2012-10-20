@@ -1,0 +1,19 @@
+6						! number os cells
+0.89	0.79	0.98	0.80	0.60	0.40	! fu (fraction of grid cell covered by trees)
+0.0	0.0	0.0	0.0	0.0	0.0	! fl (fraction of grid cell covered by grasses)
+6.0	5.0	6.0	4.0	4.5	3.0	! LAI upper canopy (m2 m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! LAI lower canopy (m2 m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 1 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 2 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 3 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 4 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 5 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 6 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 7 (kg-C m-2)
+2.0	3.0	4.0	5.0	6.0	7.0	! Above-gound biomass pft 8 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 9 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 10 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 11 (kg-C m-2)
+0.0	0.0	0.0	0.0	0.0	0.0	! Above-gound biomass pft 12 (kg-C m-2)
+
+

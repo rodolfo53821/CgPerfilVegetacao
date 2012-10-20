@@ -1,0 +1,17 @@
+
+Inicio 10:00 Termino 17:30     Pausa 12:40 a 12:55
+
+Criou-se um pacote controle que contera algumas classe importantes para geraçao da resposta final
+No pacote foi criado
+	Pefil classe que contem o arquivo de entrada e saida, tendo uma funcao que gera o SVGDocument resposta
+	Raster classe destenida a conversao do arquivo SVGDocument para png,svg,jpeg,ou pdf
+
+
+Foi feita telas complementares para melhorar a relação do usuario com o programa
+	Telas de aviso
+		Quando se falta os arquivos de entrada
+	Telas de pergunta 
+		Quando o arquivo de saida escolhido ja existe dai foi criado a opcao de sobescrever o nome, renomear automaticamente
+
+
+Alteração na TEla de visualização de svg - agora ela pode abrir um arquivo dela mesma nao precisa utilizar o mainWindow

@@ -1,0 +1,26 @@
+4 1:2 4:30 1:45 3:45 2:15 1:05 1:45 1:20 1
+Relatorio geral sobre as atividades desenvolvidas ao longo da semana
+Inicio 9:00     Termino  
+Horas ao longo da semana
+Semana do dia 21/12 a 27/12
+
+20/12 nao houve atividades
+21/12 5hs20min
+22/12 6hs15min
+23/12 6hs0min
+24/12 2hs50min
+25/12 2hs20min
+26/12 nao houve atividades
+
+
+Total  22hs45min
+
+
+
+As atividades durante essa semana se iniciou com a instalação e manipulação de alguns exemplos da ferramenta Batik. Posteriormente 
+teve a tentativa de manipular uma imagem em SVG, podendo escala-la e translada-la....A medida que tal processo 
+foi conseguido, observando que está sendo utilizado o Dom referente ao SVG no processo de transformação, criou-se funções bases para tais transformações
+que serão aproveitadas no produto final.Para tais funções foram feitos testes simples de execução.
+
+Na semana posterior a proposta é conseguir criar um Dom que contenha mais de um Dom, ou seja um DomTree com vários nodos
+que represente as SVG referente.

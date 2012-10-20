@@ -1,0 +1,38 @@
+Ola Ana!!
+
+
+Reposta a questao sobre o ultimo modelo da figura todosOsModelos:
+ela faz parte das arvores(nao arbustos) para facilitar nao sei se lembra o professor pediu que colocasse um 
+tronco nela...
+
+
+Duvidas
+
+1@ Voce ja fez a proporcao ? Se tiver dificil eu faço de outra maneira...
+
+2@ Eu devia ter pego o papelzinho que voce anotou na reuniao com o professor Marcus...
+Passou tempo e eu perdi a certeza sobre as variaveis do arquivo de entrada
+
+number of cells --- qtde de celulas tera a figura
+fu, e fi quanto a floresta estara preenchida pela arvore e arbustro
+Lai densidade de cada arvore,ou arbustro (aplicada sobre a copa afeta a largura da copa)
+Biomass proporcao do tronco da arvore
+
+Se eu tiver errado voce me corrige....
+Agora dentro da incerteza que realmente  que cada variavel quer dizer,tenho outras duvidas
+
+Lai .... voce disse que iriamos adotar o maximo de 8 certo?
+Imagino que pra facilitar nos calculos.... o valor 8 seria 100% a largura padrao da copa de um modelo, 7 seria 700/8 % e assim vai...pode ser assim?
+
+Biomass... a tabela ta pronta, dai vamos supor que eu tenho um valor de dbh 30 +-(caso onde aglb entre 0.01 e 0.02 ) como eu vou aplicar no tronco? Tal fato nao foi descutido nem na reuniao.
+Percebi que a funcao para achar o dbh nao é totalmente decrescente... dai nao podemos vamos
+supor colocar o valor 30 como o maior dbh e aplicar a proporçao padrao do tronco, como eu propus em LAI
+
+
+Obs: para tabela que fiz os valores de aglb podem estar entre [0.01,100]
+
+3@ A mais importante das duvidas é com o recontrato, voce disse que falaria com o professor...
+Em que pé estamos nesse ponto.
+
+
+Um Abraço.

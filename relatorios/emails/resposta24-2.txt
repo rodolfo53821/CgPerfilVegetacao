@@ -1,0 +1,41 @@
+rguntas!!! (você ainda ta na sua casa? ou já ta em Viçosa?)
+ 
+Duvidas
+
+1@ Você já fez a proporção ? Se tiver difícil eu faço de outra maneira...
+EU TO AQUI ENROLANDO (ME DESCULPE) É QUE NEM SEI POR ONDE COMEÇAR...MAS ASSIM QUE TERMINAR ESSE EMAIL, EU VOU TENTAR TE MANDAR ALGO.
+
+2@ Eu devia ter pego o papelzinho que você anotou na reunião com o professor Marcus...
+Passou tempo e eu perdi a certeza sobre as variáveis do arquivo de entrada
+CERTO.... VAMOS RECORDAR
+
+number of cells --- qtde de celulas tera a figura
+EXATO
+
+fu, e fi quanto a floresta estara preenchida pela arvore e arbustro
+FU E FL SIM É EM RELAÇÃO AO QUANTO DA CELULA ESTARÁ COBERTA POR ARVORE E ARBUSTO... A EQUAÇÃO IDÉIA É M2 SOLO COBERTO/ M2 SOLO TOTAL (METRO QUADRADO DE SOLO COBERTO DIVIDIDO POR METRO QUADRADO DE SOLO TOTAL)
+Lai densidade de cada arvore,ou arbustro (aplicada sobre a copa afeta a largura da copa)
+SIM O LAI AFETA O TAMANHO DA COPA - NA EQUAÇÃO METRO QUADRADO DE FOLHA/ METRO QUADRADO DE SOLO COBERTO
+
+Biomass proporcao do tronco da arvore
+SIM..... RODOLFO SE VOCE AINDA NAO ESTIVER EM VIÇOSA EU VOU ESCANEAR AS ANOTAÇÕES E TE MANDO OK? VISUALIZANDO AS IDÉIAS É BEM MAIS FÁCIL DE ENTENDER/ LEMBRAR O QUE NÓS DISCUTIMOS
+
+Se eu tiver errado voce me corrige....
+Agora dentro da incerteza que realmente  que cada variavel quer dizer,tenho outras duvidas
+
+Lai .... voce disse que iriamos adotar o maximo de 8 certo?
+Imagino que pra facilitar nos calculos.... o valor 8 seria 100% a largura padrao da copa de um modelo, 7 seria
+700/8 % e assim vai...pode ser assim?
+SIM..... PODEMOS FAZER ASSIM...MAS LEMBRE QUE O LAI TERA QUE SER DIVIDIDO ENTRE AS ARVORES....OU SEJA SE TEMOS UM LAI DE 6 E TRES ARVORES NA CELULA, CADA ARVORES TERA UM LAI DE 2. CERTO?
+
+Biomass... a tabela ta pronta, dai vamos supor que eu tenho um valor de dbh 30 +-(caso onde aglb entre 0.01 e 0.02
+) como eu vou aplicar no tronco? Tal fato nao foi descutido nem na reuniao.
+Percebi que a funcao para achar o dbh nao é totalmente decrescente... dai nao podemos vamos
+supor colocar o valor 30 como o maior dbh e aplicar a proporçao padrao do tronco, como eu propus em LAI
+nós vamos usar uma equação simples...tipo área de retangulo...pra ajudar nos dados......
+
+Obs: para tabela que fiz os valores de aglb podem estar entre [0.01,100]
+
+3@ A mais importante das duvidas é com o recontrato, você disse que falaria com o professor...
+Em que pé estamos nesse ponto.
+opsssss... o9 que é re-contrato? é sobre extensão da sua bolsa né? já falei mais ou menos com o professor, quando vence a sua bolsa? quantos meses voce acha que ainda precisamos? (se eu responder os seus emails mais rápido????

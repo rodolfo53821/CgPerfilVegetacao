@@ -1,0 +1,4 @@
+Explorar o arquivo svg atributos e nos para poder criar um svg do tamnha desejado
+Inicio 9:25	Termino 18:45 Pausa 12:45 a 13:50
+
+Foi explorado com exito o fator, e visto a melhor maneira de armazenar e criar novos nos

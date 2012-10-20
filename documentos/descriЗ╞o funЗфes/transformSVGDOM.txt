@@ -1,0 +1,44 @@
+transformSVGDOM(SVGDocument doc,String operation,double valueX,double valueY)
+
+Descrição- função que transforma o documento passado como paramentro, tal transformação pode ser
+escala e translação.Importante notar que esta função modifica os valores, nao faz transformação proporcional
+
+
+Parametros  
+	doc - documento a sofrer transformação
+	operation - qual operação a ser executada
+	valueX - valor x da transformação 
+	valueY - valor y da transformação
+
+
+
+
+testes
+
+     Testes simples..escalar e retornar ao valor padrao, alternar entre operações diferentes,transladar e transladar ao valor padrao
+	Operações sem ser proporcional
+	transformSVGDOM(doc3, "scale",0.5,0.5,false);
+	transformSVGDOM(doc3, "scale",1,1,false);
+	transformSVGDOM(doc3, "scale",0.5,0.5,false);
+	transformSVGDOM(doc3, "translate",100,5,false);
+	transformSVGDOM(doc3, "translate",200,200,false);
+	transformSVGDOM(doc3, "scale",1,1,false);
+	transformSVGDOM(doc3, "translate",1,1,false);
+	
+	Operações com os valores sendo proporcional e passando valores negativos tambem
+	
+	transformSVGDOM(doc3, "scale",50,50,true);
+	transformSVGDOM(doc3, "scale",1,1,false);
+    	transformSVGDOM(doc3, "translate",10000,10000,true);
+	transformSVGDOM(doc3, "translate",1,1,false);
+    	transformSVGDOM(doc3, "scale",50,50,true);
+    	transformSVGDOM(doc3, "scale",-500/15,-500/15,true);
+    	transformSVGDOM(doc3, "scale",50,50,true);
+		    
+        transformSVGDOM(doc3, "scale",- getInverseProportionalValue(50),- getInverseProportionalValue(50),true);
+        transformSVGDOM(doc3, "translate",10000,10000,true);
+    	transformSVGDOM(doc3, "translate",-100,-100,false);
+    	transformSVGDOM(doc3, "translate",1,1,false);
+    	transformSVGDOM(doc3, "translate",-10000,-50000,true);
+	
+	Testes de excessao nao executado ainda

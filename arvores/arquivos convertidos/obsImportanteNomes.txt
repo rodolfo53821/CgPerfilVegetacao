@@ -1,0 +1,19 @@
+
+Nomeação de arquivos
+
+Nomei-jPrograma
+
+
+Nome define um nome para arquivo
+i define arquivos com mesmo nome porem manipulaçoes de extração diferentes
+j define a tecnica utilizada, ressaltando que se nao tiver esse numero a tecnica é a 1
+Programa define qual programa usado para conversao em vetor:
+	com nada : potrace
+	mt : magic tracer
+	tv : total vectorize
+
+
+
+
+
+

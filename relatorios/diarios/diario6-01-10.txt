@@ -1,0 +1,6 @@
+Alguns testes com a subfuncao de renomear automaticamente um arquivo
+Gerar transcode para a extensao svg tb
+Inicio 10:00	Termino17:30  Pausa 12:30 a 15:30
+
+O transcode para svg nao foi feito visto que ocorreram problemas que apesar da tentativa de solução nao foram
+identificados, dai as atenções estao voltadas na forma como é armazenado a informação no svg
